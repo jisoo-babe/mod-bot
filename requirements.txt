@@ -12,6 +12,7 @@ google-auth-oauthlib
 gunicorn
 lk21
 lxml
+mediainfo
 pillow
 psutil
 psycopg2-binary
